@@ -1,16 +1,72 @@
-## Hi there 👋
+# Hi there, I'm Rohit – Robotics Software Engineer 👋  
+**Building robot arms, CNC systems, and intelligent perception stacks.**  
 
-<!--
-**MUTANT567/MUTANT567** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="220" alt="Robotic arm in action"/>
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="220" alt="Robotic stacking simulation"/>
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="220" alt="CNC machine operation"/>
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="220" alt="Robot learning from demonstration"/>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💫 About Me:
+🔭 I’m currently working on  
+- A DIY Dual Robotic Arm Kit controllable via a web app  
+- Robotics simulation projects in **ROS** and **NVIDIA Isaac Sim**  
+- High-speed CNC stepper motor + relay controller firmware  
+
+🤝 I’m looking to collaborate on  
+- Open-source robotics frameworks (ROS, MoveIt, SLAM, control systems)  
+- Robotics education kits & DIY projects  
+- AI + Robotics research projects  
+
+🙋‍♂️ I’m looking for help with  
+- Advanced robot manipulation and planning in Isaac Sim  
+- Optimizing large-scale ML models for robotic control  
+
+🌱 I’m currently learning  
+- Multimodal robot perception (vision, proprioception, tactile sensing)  
+- Foundation models for robotics  
+- Advanced inverse kinematics & motion planning  
+
+💬 Ask me about  
+- Robotics hardware-software integration  
+- ROS & Isaac Sim workflows  
+- CNC motion control and embedded systems  
+
+⚡ Fun fact  
+I built my first robotics project using **scrap electronics** and now I’m building **robot arms that learn from humans** 🚀  
+
+---
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rohit-mohanraj-52b5b922b) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rohitmohanraj2004@gmail.com) 
+
+---
+
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white) 
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) 
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+
+---
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=MUTANT567&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=MUTANT567&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MUTANT567&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=MUTANT567&icon=0&color=0)](https://visitcount.itsvg.in)
+
+---
