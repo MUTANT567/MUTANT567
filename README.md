@@ -11,32 +11,11 @@
 ---
 
 # 💫 About Me:
-🔭 I’m currently working on  
-- A DIY Dual Robotic Arm Kit controllable via a web app  
-- Robotics simulation projects in **ROS** and **NVIDIA Isaac Sim**  
-- High-speed CNC stepper motor + relay controller firmware  
+- 🤖 Building DIY Dual Robotic Arm Kits & CNC motion controllers  
+- 🌍 Exploring robotics in **ROS** & **NVIDIA Isaac Sim**  
+- 🔬 Passionate about robot perception & AI-driven manipulation  
+- ⚡ Fun fact: started with **scrap electronics**, now building **learning robot arms** 🚀  
 
-🤝 I’m looking to collaborate on  
-- Open-source robotics frameworks (ROS, MoveIt, SLAM, control systems)  
-- Robotics education kits & DIY projects  
-- AI + Robotics research projects  
-
-🙋‍♂️ I’m looking for help with  
-- Advanced robot manipulation and planning in Isaac Sim  
-- Optimizing large-scale ML models for robotic control  
-
-🌱 I’m currently learning  
-- Multimodal robot perception (vision, proprioception, tactile sensing)  
-- Foundation models for robotics  
-- Advanced inverse kinematics & motion planning  
-
-💬 Ask me about  
-- Robotics hardware-software integration  
-- ROS & Isaac Sim workflows  
-- CNC motion control and embedded systems  
-
-⚡ Fun fact  
-I built my first robotics project using **scrap electronics** and now I’m building **robot arms that learn from humans** 🚀  
 
 ---
 
